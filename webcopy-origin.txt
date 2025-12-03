@@ -1,0 +1,276 @@
+Uri: https://snackademics.shop/
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\index.htm
+Content Type: text/html
+
+Uri: https://snackademics.shop/about
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\about.html
+Content Type: text/html
+
+Uri: https://snackademics.shop/favicon.ico?favicon.318ce063.ico
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://snackademics.shop/fulllogo.svg
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\fulllogo.svg
+Content Type: image/svg+xml
+
+Uri: https://snackademics.shop/hp/chewstick.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\hp\chewstick.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/hp/eraser.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\hp\eraser.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/hp/paper.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\hp\paper.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/hp/pretzcil.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\hp\pretzcil.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/hp/ruler.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\hp\ruler.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/hp/sketchstix.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\hp\sketchstix.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/left.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\left.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/logo.svg
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://snackademics.shop/meet-the-team
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\meet-the-team.html
+Content Type: text/html
+
+Uri: https://snackademics.shop/placeholder.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\placeholder.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/products/fullyear/fullview.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\products\fullyear\fullview.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/products/fullyear/product.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\products\fullyear\product.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/products/semester/fullview.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\products\semester\fullview.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/products/semester/product.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\products\semester\product.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/right.png
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\right.png
+Content Type: image/png
+
+Uri: https://snackademics.shop/shop
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\shop.html
+Content Type: text/html
+
+Uri: https://snackademics.shop/shop/products/full-year-bundle-16
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\shop\products\full-year-bundle-16.html
+Content Type: text/html
+
+Uri: https://snackademics.shop/shop/products/semester-bundle-15
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\shop\products\semester-bundle-15.html
+Content Type: text/html
+
+Uri: https://snackademics.shop/shop/products/yummy-bundle-14
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\shop\products\yummy-bundle-14.html
+Content Type: text/html
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FAlex Myers.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Alex Myers.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FAnoushka Iyer.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Anoushka Iyer.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FAsher Jamil.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Asher Jamil.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FAva Morton.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Ava Morton.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FBlake Miller.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Blake Miller.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FBreana Chate.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Breana Chate.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FCole Ondrejcak.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Cole Ondrejcak.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FDennis Talpa.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Dennis Talpa.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FDiv Gulwani.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Div Gulwani.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FElissa Morgan.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Elissa Morgan.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FElsie Hund.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Elsie Hund.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FFabian Mendoza.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Fabian Mendoza.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FJack Kowalik.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Jack Kowalik.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FJayden Mathew.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Jayden Mathew.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FMaja Kaminski.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Maja Kaminski.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FMassimo Tamburino.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Massimo Tamburino.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FNate Cerilli.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Nate Cerilli.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FReya Sanghvi.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Reya Sanghvi.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FRia Raj.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Ria Raj.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FRida Vantamuri.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Rida Vantamuri.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FSaanvi Gupta.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Saanvi Gupta.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FVarsha Guttikonda.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Varsha Guttikonda.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FWes Selby.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\Wes Selby.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2Fheadshots%2FWilliam Axelsen.jpg&w=640&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\William Axelsen.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/image?url=%2FIMG_9022.jpg&w=1920&q=75
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\IMG_9022.jpeg
+Content Type: image/jpeg
+
+Uri: https://snackademics.shop/_next/static/chunks/02ae28cb59979313.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\02ae28cb59979313.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/1b0fa09e3bf4f0ca.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\1b0fa09e3bf4f0ca.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/22a927c28c23c45a.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\22a927c28c23c45a.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/2f0f5dff287505b3.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\2f0f5dff287505b3.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/43fc187c539540a3.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\43fc187c539540a3.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/4733fe87e3f0d9ea.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\4733fe87e3f0d9ea.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/5093566f76721060.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\5093566f76721060.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/5e748f4daa6938e7.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\5e748f4daa6938e7.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/6faf2fe23bca8e2b.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\6faf2fe23bca8e2b.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/74122a2ecae0cac5.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\74122a2ecae0cac5.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/8b3a8bb3b49fae20.css
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\8b3a8bb3b49fae20.css
+Content Type: text/css
+
+Uri: https://snackademics.shop/_next/static/chunks/a6dad97d9634a72d.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\a6dad97d9634a72d.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/b5dcb2af123c0703.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\b5dcb2af123c0703.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/da6f8814c9ac873d.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\da6f8814c9ac873d.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/ef9f8078a936a56c.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\ef9f8078a936a56c.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/f591159744288725.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\f591159744288725.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/chunks/turbopack-736851f0098197a6.js
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\chunks\turbopack-736851f0098197a6.js
+Content Type: application/javascript
+
+Uri: https://snackademics.shop/_next/static/media/5d52bd6c4cb3f315-s.p.610fd2a3.woff2
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\media\5d52bd6c4cb3f315-s.p.610fd2a3.woff2
+Content Type: font/woff2
+
+Uri: https://snackademics.shop/_next/static/media/b6df7c92285ebcd2-s.193567cf.woff2
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\media\b6df7c92285ebcd2-s.193567cf.woff2
+Content Type: font/woff2
+
+Uri: https://snackademics.shop/_next/static/media/eeba9b1ad34c1404-s.7f2acc0f.woff2
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\_next\static\media\eeba9b1ad34c1404-s.7f2acc0f.woff2
+Content Type: font/woff2
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Users\Ishaan\OneDrive\Desktop\snackademics.shop\beacon.min.js\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
